@@ -1,0 +1,12 @@
+*.iml
+.idea
+node_modules
+target
+.DS_Store
+dist
+.classpath
+.settings
+.project
+.springBeans
+*.jar
+*.war
