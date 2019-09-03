@@ -19,7 +19,6 @@
 	</properties>
 
 	<modules>
-		<module>bjit-cbt-auth</module>
 		<module>bjit-cbt-web</module>
 		<module>bjit-cbt-api</module>
 	</modules>

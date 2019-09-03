@@ -18,12 +18,6 @@
 
 	<dependencies>
 	
-		<dependency>
-			<groupId>com.bjit.cbt.auth</groupId>
-			<artifactId>bjit-cbt-auth</artifactId>
-			<version>${project.version}</version>
-		</dependency>
-		
 		<!-- <dependency>
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
