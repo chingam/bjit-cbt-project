@@ -9,7 +9,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.bjit.cbt</groupId>
-	<artifactId>bjit-cbt-parent</artifactId>
+	<artifactId>cbt</artifactId>
 	<version>${project.version}</version>
 	<packaging>pom</packaging>
 
@@ -19,8 +19,8 @@
 	</properties>
 
 	<modules>
-		<module>bjit-cbt-web</module>
-		<module>bjit-cbt-api</module>
+		<module>cbt-client</module>
+		<module>cbt-server</module>
 	</modules>
 	
 	<dependencies>
